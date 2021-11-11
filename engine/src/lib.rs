@@ -1,3 +1,7 @@
+mod line;
+mod colors;
+mod rules;
+
 #[cfg(test)]
 mod tests {
     #[test]
